@@ -1,5 +1,4 @@
 import numpy
-from fractions import Fraction
 
 print("""
 
